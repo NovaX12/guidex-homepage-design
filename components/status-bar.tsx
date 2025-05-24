@@ -71,4 +71,3 @@ export default function StatusBar({ steps, className }: StatusBarProps) {
     </div>
   )
 }
-
